@@ -1,5 +1,5 @@
 ## Firefox For Windows XP/Vista - Free Download
-![Screenshot](screenshot_pl.PNG)
+![Screenshot](https://raw.githubusercontent.com/szalony9szymek/firefox-xp/master/screenshot_pl.PNG)
 ### Downloads:
 
 [Firefox.Setup.52.9.0esr.amd64.en.exe](https://github.com/szalony9szymek/firefox-xp/releases/download/52.9.0esr/Firefox.Setup.52.9.0esr.amd64.en.exe)
