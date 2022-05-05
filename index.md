@@ -17,7 +17,3 @@ Use at your own responsibility!
 ![Screenshot](https://raw.githubusercontent.com/szalony9szymek/firefox-xp/master/screenshot_pl.PNG)
 
 ![Screenshot2](https://raw.githubusercontent.com/szalony9szymek/firefox-xp/master/screenshot_pl2.PNG)
-
-### Support or Contact
-
-If you have any questions please contact me: szymon(at)szymon(dot)top
